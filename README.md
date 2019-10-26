@@ -1,6 +1,6 @@
 # Bank-Customer-Churn-Prediction
 - Installing Theano, TensorFlow and Keras
-  -For Mac users:
+   For Mac users:
     *Open your main terminal or the Anaconda Prompt and enter the following commands:
     *pip install theano
     *pip install tensorflow
