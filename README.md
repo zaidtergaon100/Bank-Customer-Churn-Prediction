@@ -1,15 +1,15 @@
 # Bank-Customer-Churn-Prediction
 - Installing Theano, TensorFlow and Keras
-   For Mac users:
-    *Open your main terminal or the Anaconda Prompt and enter the following commands:
-    *pip install theano
-    *pip install tensorflow
-    *pip install keras
-    *conda update --all
+  
+  *For Mac users:
+   *Open your main terminal or the Anaconda Prompt and enter the following commands:
+   *pip install theano
+   *pip install tensorflow
+   *pip install keras
+   *conda update --all
     
     
-    
-  -For Windows and Linux users:
+    *For Windows and Linux users:
     In Spyder, go to Tools and Open Anaconda Prompt. Then enter the following commands:
     1. Create a new environment with Anaconda and Python 3.5:
        conda create -n tensorflow python=3.5 anaconda
